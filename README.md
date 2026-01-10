@@ -1,5 +1,7 @@
 # Microsoft 365 Forensic Triage (Offline)
 
+![M365Triage Banner](images/banner.png)
+
 An **offline forensic triage** tool that converts Microsoft 365 exported CSV logs into a **normalized local dataset (SQLite)** and a **professional, court‑friendly HTML report**.
 
 It is built for real incident response and forensic workflows where you receive a folder of exports (e.g., **Unified Audit Log** and **Entra ID / Azure AD sign‑in logs**) and you need to quickly answer:
