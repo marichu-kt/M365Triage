@@ -1,0 +1,22 @@
+﻿CreatedDateTime,UserPrincipalName,ManagedIdentityId,ResourceDisplayName,IpAddress,ResultType,Status.errorCode,CorrelationId,TenantId
+2025-12-12T04:01:00Z,cfo@evilcorp.com,7ad6943c-13ca-4e0a-994c-19e57a3bb625,Microsoft Graph,20.190.128.12,0,50076,73a10ed3-75db-4000-8bb0-ad6df981ec04,57655cc8-e07b-403d-b3dc-05092f3d1537
+2025-12-22T03:40:00Z,it.admin@evilcorp.com,83b76d44-ed1f-4e3c-9e27-67ae6eac4705,Microsoft Graph,20.190.128.12,0,0,92b35514-4b31-47dd-b274-909d073071f3,5667cd42-fc6d-497f-a472-765dba84ba8a
+2025-12-12T10:45:00Z,bob@evilcorp.com,850d82c4-6e50-4bd5-a64b-ad9aaa34e4f0,Microsoft Graph,5.62.41.22,0,0,20cfe62f-603f-4daa-aac5-0325d4d799d2,d453861a-00ab-42d2-a118-605b22318def
+2025-12-25T11:26:00Z,svc.backup@evilcorp.com,b495caa5-b539-468a-8470-16db456eae5b,Microsoft Graph,5.62.41.22,0,0,94112ffc-8dd6-406c-a6f2-51e27cb6082f,1a8060fc-60f6-4d16-b66a-1f708b48a476
+2025-12-21T10:05:00Z,it.admin@evilcorp.com,c1e8b62a-e5cf-4790-9b9d-bfe46a9c5a6d,Microsoft Graph,20.190.128.12,0,0,643fd509-45c5-474c-bd6a-7abee5ca4aab,ac3c5676-5984-4c2c-a6d3-77f12afab4ec
+2025-12-19T06:19:00Z,cfo@evilcorp.com,7f60fa7a-e29c-4693-80f7-a91aceb3c6cb,Microsoft Graph,104.26.12.88,0,0,55a8ce3a-8748-4dc0-a101-aaf399fa9570,3d40b555-62e6-459d-baab-da4a51fd3073
+2025-12-13T21:02:00Z,cfo@evilcorp.com,1f150d22-8419-4b13-aca4-8bc5a41d6ad7,Microsoft Graph,83.45.12.34,50076,50076,dd9d99d5-8aee-463e-9258-5ec163eaf810,0a79c374-5469-4438-9e56-810deac7e07b
+2025-12-23T21:08:00Z,alice@evilcorp.com,6c0a93fb-b872-4b87-b657-4e14572dbf03,Azure Resource Manager,83.45.12.34,0,0,8538335c-b364-49c8-8a11-6e1c462f6218,db0cb688-b813-42cc-b19b-25a8e2eae60d
+2025-12-24T08:36:00Z,svc.backup@evilcorp.com,3bf3d5a8-8a10-4ef2-a086-b45db41f3e84,Azure Resource Manager,83.45.12.34,50076,0,26a067ee-bd4a-4c22-94ea-0a2e12ff1efb,33577878-7c52-49a5-8335-2b1750697ed4
+2025-12-13T09:30:00Z,svc.backup@evilcorp.com,ffd76c61-f260-4d76-834f-3cf18aad1725,Azure Resource Manager,20.190.128.12,0,0,3f308747-20c0-45cc-b8bf-dd89a42f3495,9ae6c33f-aa3f-48f8-acb5-5240a7c594b7
+2026-01-02T08:59:00Z,svc.backup@evilcorp.com,79cf6f75-85f6-4969-8a68-edb7af051cd2,Microsoft Graph,83.45.12.34,0,50076,ddf2abcb-b45e-4dbb-adf8-b79d151b5127,007c7bbd-e827-40af-a1cb-b275b2ec7aff
+2025-12-12T11:15:00Z,bob@evilcorp.com,b7b790f2-41be-4d4e-9a7f-9bfb5109c5c7,Azure Resource Manager,2.139.88.10,50076,50076,8c86ba53-6458-40a6-aebd-3a0358f4da68,f78802c0-6654-462d-a841-cb2cf47276a5
+2025-12-18T06:53:00Z,svc.backup@evilcorp.com,2688d7a1-a5ef-4be9-9dcd-26dd737e0f33,Azure Resource Manager,20.190.128.12,50076,0,d995edb4-5c0b-442a-b73a-42a1c5cf0d3d,79e65060-0c5b-4a61-a88d-4c6233e687e7
+2025-12-11T23:23:00Z,bob@evilcorp.com,8b7865aa-db78-4c50-88b9-5ac94733a24f,Azure Resource Manager,20.190.128.12,0,0,a4c231a5-0337-4024-b8b6-caae6b9d761b,0502a81d-5b0d-4088-90f1-a36eb0630cb8
+2026-01-01T16:36:00Z,cfo@evilcorp.com,47a9d404-15a1-4dfd-8b7d-e4297922f1b4,Azure Resource Manager,20.190.128.12,50076,0,032c36f4-7697-4081-9833-9e9eff84f79b,b41c7e92-b88f-4174-bc02-2d69d178a99f
+2025-12-30T17:33:00Z,it.admin@evilcorp.com,84063ed0-7be1-4c68-8331-477cb1a96658,Microsoft Graph,2.139.88.10,0,0,6118646b-562a-4fc7-88e7-34c8523bd779,f3225925-00d8-4516-abe6-243d0671791c
+2025-12-25T19:44:00Z,alice@evilcorp.com,cba935b0-86a5-4517-9346-de1d2b89e59a,Azure Resource Manager,104.26.12.88,0,50076,349e7ab0-5150-48ac-90b2-3465b4d15a9a,1a26fe08-d724-4694-8375-f1c97996ac48
+2025-12-13T21:30:00Z,alice@evilcorp.com,67e5c9be-c270-4014-b280-531c52fc9de4,Microsoft Graph,2.139.88.10,50076,0,7dd59d1a-c504-48d8-b7e7-0466644a2876,d88e52ae-dd9f-463a-80f0-40e40f903476
+2026-01-02T18:00:00Z,cfo@evilcorp.com,77f04785-a901-483e-9ebd-746ed060fcb3,Microsoft Graph,104.26.12.88,0,0,ba320d6c-4a61-416f-874e-ef0a29bee7de,fd4f28b8-f272-4bb8-aed8-2489ffca4634
+2026-01-01T10:19:00Z,bob@evilcorp.com,18573eb2-8833-4881-a9c3-50fda895ac62,Azure Resource Manager,83.45.12.34,0,0,adccd083-3453-49a8-b49a-bfa136f85f41,05ab0626-63f9-4d56-9326-1028148934af
+

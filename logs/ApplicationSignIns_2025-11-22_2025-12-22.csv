@@ -1,0 +1,22 @@
+﻿CreatedDateTime,AppDisplayName,ServicePrincipalId,ServicePrincipalName,IpAddress,ResultType,Status.errorCode,Status.failureReason,CorrelationId,TenantId
+2025-12-26T13:33:00Z,Microsoft 365 Admin Center,46af1432-9ab7-48cd-a687-9b5ccf064f86,svc-payroll,2.139.88.10,50076,50076,MFA required.,3c265f95-eeea-4b89-b6df-de1a479322df,cfcab096-5b1c-4aa3-bfd9-d943bac1bf5c
+2025-12-19T21:49:00Z,Microsoft 365 Admin Center,d640305d-d24c-4dcb-825c-ffae648e497f,svc-backup,2.139.88.10,0,50053,MFA required.,6a6895f7-5114-4675-b53d-ff61b4c99048,29294372-4165-4f42-928f-9049def589ce
+2025-12-30T15:49:00Z,Azure Portal,330d1f46-6ff0-4818-80e3-bcc8045a390f,svc-backup,83.45.12.33,50053,0,MFA required.,1a6407f6-0b7f-4fb8-9815-f6b834c65364,664cc197-d1df-46ed-bad9-3a628f84af3e
+2025-12-28T04:50:00Z,Microsoft Teams,451ed1e4-84c9-4083-9ab7-b5d2bf52fcdc,svc-backup,2.139.88.10,50053,0,Invalid secret.,f6891f77-0d90-4517-9cf2-0c5d864acbc8,bb59b47c-acbb-41e3-91d3-75416a2d2dc2
+2025-12-18T06:43:00Z,SharePoint Online,ac2e7497-a783-43a2-a8bb-2219103e706e,svc-etl,2.139.88.10,50076,50053,MFA required.,a33b1b32-6d45-4172-9235-147686b3627b,bf3cd6cd-85a5-4e6a-a8d6-1689d4679441
+2025-12-24T19:48:00Z,Microsoft Teams,10dda142-7c2e-4fa8-afd8-56cbbeafc2fb,svc-backup,5.62.41.22,0,0,Invalid secret.,722bee1f-7e33-4e5d-9874-6b08c4326961,64716cf4-cbfe-421f-8b3d-f603551a3c18
+2025-12-23T14:02:00Z,SharePoint Online,41168381-09c6-4792-aa31-fc951b3618b7,svc-backup,83.45.12.33,0,0,MFA required.,910b232a-790b-45e6-8a53-201bfffe845a,e2fb39f9-34f9-4783-a403-8f912742de2b
+2025-12-22T13:18:00Z,Graph Explorer,9b0a7d5d-4941-486e-8b85-0fedea8b4294,svc-backup,2.139.88.10,0,0,MFA required.,5ea32d1b-33c0-493a-8c5e-94b2eca29dc8,fa38eebf-7727-43fd-bf8c-fe638f41b1ac
+2025-12-29T20:52:00Z,Microsoft 365 Admin Center,67131af6-a842-459c-9b1d-d84ad023b0fe,svc-etl,2.139.88.10,50076,50053,,48a1048a-76ea-473e-b5cb-59668051db25,7f19878e-488f-4569-9527-7959c5c0321e
+2026-01-04T08:12:00Z,Graph Explorer,5cbcfbe1-8f53-4605-8e99-174590312cf0,svc-backup,185.199.110.42,50076,0,Invalid secret.,59ddd806-b983-4656-8a5e-9d2b501fab44,aee08e90-0874-44e8-8db7-ff934fb422f9
+2025-12-17T16:30:00Z,Microsoft 365 Admin Center,060973db-dad4-4c51-b7c8-bba0739bbab7,svc-payroll,83.45.12.33,0,0,,eca7fdca-c205-4f68-8dc5-3441919fb57e,f80987d1-a43c-4e5c-a8b2-ea81950ead23
+2025-12-17T14:27:00Z,Microsoft 365 Admin Center,299f0966-a743-4153-bddb-d1ed21526383,svc-backup,20.190.128.12,50053,50076,,e46d37f9-f5e9-453c-9a1b-cb8c9710ff03,d7d74367-b520-4204-bc88-fcdb588962d4
+2025-12-22T13:34:00Z,Microsoft 365 Admin Center,209883b7-a27d-4128-b52e-d7991f4c8adb,svc-payroll,20.190.128.12,50076,0,MFA required.,ac49237e-f4c0-4bab-b1da-8f16a168989b,0a41e100-6632-411b-9d8d-45d4d53def51
+2025-12-28T00:05:00Z,Exchange Online,3873566d-1768-41b0-8e1b-fc5ff6a67864,svc-backup,104.26.12.88,50053,0,Invalid secret.,d017b178-5f02-44b3-8abc-a0099d9680ac,97db006d-b6dc-470e-a5ad-45e1ecf3f5cb
+2025-12-28T09:13:00Z,Microsoft 365 Admin Center,2d250f61-ca1b-4651-b89d-067128b96560,svc-backup,185.199.110.42,50076,50076,MFA required.,ec8dfdb8-5287-4ed9-9ddc-6680d68ec264,c904e678-53b7-4287-bc4f-d9fe6ed6bb23
+2026-01-04T20:58:00Z,Graph Explorer,ac58d0fe-460f-434f-a4b3-e1901ac703bd,svc-backup,83.45.12.33,0,50076,,614f8d42-80be-4417-9a99-afe2832e6169,5d5942ee-d01e-49ed-bc54-17d3d0f4c63f
+2025-12-29T11:58:00Z,Microsoft Teams,c07ad984-e585-4bdb-a0b9-775f8db5950d,svc-backup,83.45.12.33,0,0,MFA required.,7c850ca3-dbef-4967-b15b-4902804d5d79,773fc2f5-906f-48ab-a44a-dd11c4ab8ed6
+2026-01-02T00:40:00Z,Azure Portal,9b1779b4-1cd8-4245-9e87-c12f357e29fe,svc-etl,104.26.12.88,50053,0,Invalid secret.,e4704d13-4aae-4a70-a795-97b4c1e153bf,05c22a8f-298b-41c4-9c77-54bb2cba9c6d
+2025-12-29T15:51:00Z,Exchange Online,14f02183-bd0e-4b89-9f23-8b9a364b265a,svc-backup,104.26.12.88,50076,50053,MFA required.,0c4049df-8b78-4f88-8e7b-c4e9a0b6b6bd,1c33d2ae-3491-48ae-bc80-a9d162e393ec
+2025-12-28T16:14:00Z,SharePoint Online,65573f36-59ce-4718-bd73-33de7dd47b4d,svc-etl,83.45.12.33,50076,50076,MFA required.,4d54027c-78bc-4880-8ce6-e5ac96303020,30ddff45-5168-4134-9028-2610e1bc1cda
+
