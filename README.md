@@ -1,7 +1,8 @@
 # Microsoft 365 Forensic Triage (Offline)
-### **A**utomated **C**orrelation of **M**365 **E**vents
 
 ![M365Triage Banner](images/banner.png)
+
+### **A**utomated **C**orrelation of **M**365 **E**vents
 
 An **offline forensic triage** tool that converts Microsoft 365 exported CSV logs into a **normalized local dataset (SQLite)** and a **professional, court‑friendly HTML report**. 
 
