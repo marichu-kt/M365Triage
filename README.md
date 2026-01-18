@@ -1,4 +1,5 @@
-# Microsoft 365 Forensic Triage (Offline) - **A**utomated **C**orrelation of **M**365 **E**vents
+# Microsoft 365 Forensic Triage (Offline)
+# **A**utomated **C**orrelation of **M**365 **E**vents
 
 ![M365Triage Banner](images/banner.png)
 
